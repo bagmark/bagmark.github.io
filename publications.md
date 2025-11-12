@@ -18,7 +18,7 @@ permalink: /publications/
 ---
 
 ## Preprints
-{% assign preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
+{% assign preprints = site.data.publications | where: "type", "preprint" | sort: "date" | reverse %}
 {% for p in preprints %}
 - **{{ p.title }}** ({{ p.year }}). {{ p.authors }}. _{{ p.venue }}_.  
   {% if p.doi %}[DOI]({{ p.doi }}){% endif %}
