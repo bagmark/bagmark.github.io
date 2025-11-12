@@ -5,6 +5,8 @@ main:
     url: /publications/
   - title: "Biography"
     url: /biography/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Contact"
     url: /contact
   # Optional extras:
