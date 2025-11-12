@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: "Kasper Bågmark"
 ---
 
 I am a PhD candidate working on scientific machine learning, Bayesian statistics, Stochastics, and numerical analysis. 
