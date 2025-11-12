@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
+  # Optional extras:
+  # - title: "CV"
+  #   url: /assets/KasperBagmark_CV.pdf
+  # - title: "GitHub"
+  #   url: https://github.com/bagmark
