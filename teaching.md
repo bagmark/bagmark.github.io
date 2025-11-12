@@ -12,7 +12,7 @@ permalink: /teaching/
 - **Melker Bild** — Master’s thesis: *Adapting the Deep Backward Stochastic Differential Equation Method to Stochastic Filtering* (2025).  
   Now at **Korts­ystem i Gislaved AB**.
 
-## Supervision
+## Teaching
 Below are my teaching activities at Chalmers University of Technology.
 
 - **MVE565 – Computational Methods for Stochastic Differential Equations**  
