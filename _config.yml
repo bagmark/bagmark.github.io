@@ -1,0 +1,49 @@
+title: "Kasper Bågmark"
+description: "Research in stochastic filtering, SDEs, neural fields, and UQ."
+url: "https://<your-username>.github.io"
+baseurl: "" # for user site; for project site use "/reponame"
+author:
+  name: "Kasper Bågmark"
+  email: "bagmark@chalmers.se"
+  affiliation: "Chalmers University of Technology & University of Gothenburg"
+  orcid: "0000-0002-9779-4761"
+  scholar: "https://scholar.google.com/citations?user=-oZDUnQAAAAJ"
+  github: "https://github.com/bagmark"
+  website: "https://bagmark.wordpress.com"
+
+# Use a simple Jekyll theme via remote_theme (works on GitHub Pages)
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /#contact
+
+# Collections (optional, not used here)
+# collections:
+#   posts:
+#     output: true
+
+# Permalinks
+permalink: pretty
+
+# Markdown
+markdown: kramdown
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

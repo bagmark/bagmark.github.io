@@ -1,0 +1,19 @@
+- title: "High-dimensional Bayesian filtering through deep density approximation"
+  authors: "K. Bågmark, F. Rydin"
+  venue: "Preprint"
+  year: 2025
+  doi: ""
+  pdf: "/assets/papers/bagmark2025_deep_density_filtering.pdf"
+  code: "https://github.com/bagmark/deep-density-filtering"
+  slides: "/assets/slides/sample.pdf"
+  video: ""
+
+- title: "Deep BSDE Filter (LogBSDEF) for nonlinear state estimation"
+  authors: "K. Bågmark"
+  venue: "Manuscript"
+  year: 2025
+  doi: ""
+  pdf: "/assets/papers/bagmark2025_logbsdef.pdf"
+  code: "https://github.com/bagmark/deep-density-filtering"
+  slides: ""
+  video: ""

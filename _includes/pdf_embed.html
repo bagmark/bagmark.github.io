@@ -1,0 +1,9 @@
+{% comment %} Embed a PDF stored in /assets/slides or any path {% endcomment %}
+<div style="width:100%; height:0; padding-bottom: 75%; position: relative;">
+  <object
+    data="{{ include.src }}#view=FitH"
+    type="application/pdf"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+    <p>View the slides as a <a href="{{ include.src }}">PDF</a>.</p>
+  </object>
+</div>
