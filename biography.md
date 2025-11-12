@@ -4,8 +4,6 @@ title: "Biography"
 permalink: /biography/
 ---
 
-## Biography
-
 PhD student at the Division of Applied Mathematics and Statistics, Department of Mathematical Sciences, **Chalmers University of Technology** & **University of Gothenburg**. I am also a PhD student within the research school of the **Wallenberg AI, Autonomous Systems and Software Program (WASP)**.
 
 ### Education
