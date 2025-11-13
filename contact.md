@@ -15,6 +15,3 @@ SE–412 96 Gothenburg<br>
 Sweden
 </address>
 
-**Profiles**  
-- [Chalmers profile](#)  <!-- TODO: paste your profile URL -->
-- [LinkedIn](#)          <!-- TODO: paste your LinkedIn URL -->

@@ -7,8 +7,6 @@ main:
     url: /biography/
   - title: "Teaching"
     url: /teaching/
-  - title: "Contact"
-    url: /contact
   # Optional extras:
   # - title: "CV"
   #   url: /assets/KasperBagmark_CV.pdf

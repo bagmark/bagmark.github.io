@@ -6,7 +6,6 @@ author:
   name: "Kasper Bågmark"
   avatar: "/assets/img/profile.png"   # <- path to your photo
   bio: "PhD student at Chalmers University of Technology & University of Gothenburg"
-  email: "bagmark@chalmers.se"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
