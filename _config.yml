@@ -4,12 +4,28 @@ url: "https://bagmark.github.io"
 baseurl: "" # for user site; for project site use "/reponame"
 author:
   name: "Kasper Bågmark"
+  avatar: "/assets/img/profile.jpg"   # <- path to your photo
+  bio: "PhD student at Chalmers University of Technology & University of Gothenburg"
   email: "bagmark@chalmers.se"
-  affiliation: "Chalmers University of Technology & University of Gothenburg"
-  orcid: "0000-0002-9779-4761"
-  scholar: "https://scholar.google.com/citations?user=-oZDUnQAAAAJ"
-  github: "https://github.com/bagmark"
-  website: "https://bagmark.wordpress.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:bagmark@chalmers.se"
+    - label: "Chalmers profile"
+      icon: "fas fa-building-columns"
+      url: "https://..."                # paste your URL
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/..."  # paste your URL
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=-oZDUnQAAAAJ"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-9779-4761"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bagmark"
 
 # Use a simple Jekyll theme via remote_theme (works on GitHub Pages)
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
