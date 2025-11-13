@@ -31,6 +31,5 @@ permalink: /publications/
 {% for p in software %}
 - **{{ p.title }}** ({{ p.year }}). {{ p.authors }}. _{{ p.venue }}_.  
   {% if p.doi %}[DOI]({{ p.doi }}){% endif %}
-  {% if p.pdf %} · [PDF]({{ p.pdf }}){% endif %}
   {% if p.code %} · [Code]({{ p.code }}){% endif %}
 {% endfor %}
