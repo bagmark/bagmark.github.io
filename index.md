@@ -11,6 +11,7 @@ The annual Dynstoch Workshop will take place in Gothenburg in June 2026 — we
 
 I am currently a co-organizer of the Statistics Seminar at the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg. See the seminar webpage here:  
 [https://researchseminars.org/seminar/gbgstats](https://researchseminars.org/seminar/gbgstats)
+
 If you are interested in giving a talk, feel free to get in touch.
 
 ## Proposals and collaboration
