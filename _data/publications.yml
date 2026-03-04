@@ -45,3 +45,12 @@
   type: "software"
   doi: "https://doi.org/10.5281/zenodo.17594127"
   code: "https://github.com/bagmark/deep-density-filtering"
+
+- title: "Neural likelihood surrogates for parameter inference via log-density PDE"
+  authors: "K. Bågmark, F. Rydin"
+  venue: "The 14th International Conference on Learning Representations (ICLR) Workshop AI&PDE"
+  year: 2026
+  date: 2026-01-01
+  type: "conference"
+  url: "https://openreview.net/forum?id=FXT3nVilmS"
+  pdf: "https://openreview.net/pdf?id=FXT3nVilmS"
