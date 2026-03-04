@@ -15,7 +15,17 @@ permalink: /publications/
   {% if p.video %} · [Video]({{ p.video }}){% endif %}
 {% endfor %}
 
----
+## Conference proceedings
+{% assign confs = site.data.publications | where: "type", "conference" | sort: "date" | reverse %}
+{% for p in confs %}
+- **{{ p.title }}** ({{ p.year }}). {{ p.authors }}. _{{ p.venue }}_.  
+  {% if p.doi %}[DOI]({{ p.doi }}){% endif %}
+  {% if p.url %}[OpenReview]({{ p.url }}){% endif %}
+  {% if p.pdf %} · [PDF]({{ p.pdf }}){% endif %}
+  {% if p.code %} · [Code]({{ p.code }}){% endif %}
+  {% if p.slides %} · [Slides]({{ p.slides }}){% endif %}
+  {% if p.video %} · [Video]({{ p.video }}){% endif %}
+{% endfor %}
 
 ## Preprints
 {% assign preprints = site.data.publications | where: "type", "preprint" | sort: "date" | reverse %}
