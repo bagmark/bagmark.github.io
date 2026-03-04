@@ -20,7 +20,6 @@ permalink: /publications/
 {% for p in confs %}
 - **{{ p.title }}** ({{ p.year }}). {{ p.authors }}. _{{ p.venue }}_.  
   {% if p.doi %}[DOI]({{ p.doi }}){% endif %}
-  {% if p.url %}[OpenReview]({{ p.url }}){% endif %}
   {% if p.pdf %} · [PDF]({{ p.pdf }}){% endif %}
   {% if p.code %} · [Code]({{ p.code }}){% endif %}
   {% if p.slides %} · [Slides]({{ p.slides }}){% endif %}
