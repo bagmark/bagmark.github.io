@@ -4,7 +4,7 @@ url: "https://bagmark.github.io"
 baseurl: "" # for user site; for project site use "/reponame"
 author:
   name: "Kasper Bågmark"
-  avatar: "/assets/img/profile.png"   # <- path to your photo
+  avatar: "/assets/img/profile-new.jpg"   # <- path to your photo
   bio: "PhD student at Chalmers University of Technology & University of Gothenburg"
   links:
     - label: "Email"
