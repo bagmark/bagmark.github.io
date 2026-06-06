@@ -3,22 +3,18 @@ layout: single
 title: "Kasper Bågmark"
 ---
 
-I am a PhD student studying the nonlinear filtering problem using tools from Bayesian statistics and stochastic analysis. I explore ways to overcome the curse of dimensionality, currently focusing on deep learning-based methods to solve the filtering equations via PDEs and SPDEs.
+I am a postdoctoral researcher at Vrije Universiteit Amsterdam working on uncertainty quantification for mathematical neuroscience with scientific machine learning. I am collaborating with [Frank van der Meulen](https://fmeulen.github.io) and [Daniele Avitabile](https://www.danieleavitabile.com) on this project.
 
-I am particularly interested in collaborative projects related to state-space models, inference for conditional distributions, and numerical schemes for high-dimensional partial and stochastic differential equations.
+My research interests span Bayesian statistics, stochastic analysis, and scientific machine learning. I am particularly interested in probabilistic approaches to inverse problems, inference for complex models, and numerical schemes for high-dimensional partial and stochastic differential equations.
 
-The annual Dynstoch Workshop will take place in Gothenburg in June 2026 — we’re excited to be hosting it! Check out the [webpage](https://dynstoch2026.pages.dev) for the latest updates.
-
-I am currently a co-organizer of the Statistics Seminar at the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg. See the seminar webpage here: [https://researchseminars.org/seminar/gbgstats](https://researchseminars.org/seminar/gbgstats) <br>
-If you are interested in giving a talk, feel free to get in touch.
+I am the main organizer of the [DYNSTOCH 2026](https://dynstoch2026.pages.dev) workshop on statistical methods for dynamical stochastic models, taking place in Gothenburg in June 2026. I am also a co-organizer of the Statistics Seminar at the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg. See the seminar webpage here: [https://researchseminars.org/seminar/gbgstats](https://researchseminars.org/seminar/gbgstats) <br>
+If you are interested in giving a talk or have questions about the workshop, feel free to get in touch.
 
 ## Proposals and collaboration
 
-We are always looking for good Master's thesis students for projects in nonlinear filtering and associated areas. Currently, we are investigating deep BSDE methods for nonlinear filtering, here is a [proposal](/assets/files/Deep_filter___master_proposal.pdf) for a motivated student!
+I am always interested in collaborative projects across the areas of my research. If you're interested in working together on problems related to probabilistic learning, Bayesian statistics, uncertainty quantification, or differential equations (PDEs, SPDEs, or SDEs), please feel free to reach out.
 
-Here you see the [master's thesis](https://odr.chalmers.se/server/api/core/bitstreams/fe337e49-537f-4848-b68f-7b0d90d05a77/content) of [Filip Rydin](https://www.chalmers.se/personer/filipry/) who worked on a similar problem who was supervised by me and [Adam Andersson](https://kadamandersson.github.io). 
-
-If you're interested in collaborating or have a proposal related to probabilistic learning, Bayesian statistics, or differential equations (PDEs, SPDEs, or SDEs), feel free to get in touch!
+For Master's thesis students interested in nonlinear filtering, I have a [proposal](/assets/files/Deep_filter___master_proposal.pdf) on deep BSDE methods for this problem. I am happy to discuss other thesis topics within my broader research interests.
 
 {% comment %}
 {% include youtube.html id="https://youtu.be/kJDsUb1K-KI" title="Talk title here" %}

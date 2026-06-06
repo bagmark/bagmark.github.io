@@ -37,6 +37,12 @@
   doi: "https://doi.org/10.1007/s42985-023-00231-5"
   pdf: "https://link.springer.com/article/10.1007/s42985-023-00231-5"
 
+- title: "Learning to Estimate: Bayesian Filtering with Deep Density Methods"
+  authors: "K. Bågmark"
+  venue: "Ph.D. Thesis, Chalmers University of Technology & University of Gothenburg"
+  year: 2026
+  type: "thesis"
+
 - title: "deep-density-filtering"
   authors: "K. Bågmark, F. Rydin"
   venue: "Zenodo"

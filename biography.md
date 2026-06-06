@@ -1,12 +1,27 @@
 ---
 layout: single
-title: "Biography"
-permalink: /biography/
+title: "Short CV"
+permalink: /short-cv/
 ---
 
-PhD student at the Division of Applied Mathematics and Statistics, Department of Mathematical Sciences, **Chalmers University of Technology** & **University of Gothenburg**. I am also a PhD student within the research school of the **Wallenberg AI, Autonomous Systems and Software Program (WASP)**.
+Postdoctoral researcher at the Department of Mathematics, **Vrije Universiteit Amsterdam**.
+
+Previously, I was a PhD student at the Division of Applied Mathematics and Statistics, Department of Mathematical Sciences, **Chalmers University of Technology** & **University of Gothenburg**, and within the research school of the **Wallenberg AI, Autonomous Systems and Software Program (WASP)**.
+
+### Organization
+
+- **Main organizer** of [DYNSTOCH 2026](https://dynstoch2026.pages.dev), a workshop on statistical methods for dynamical stochastic models, taking place in Gothenburg in June 2026
+- **Co-organizer** of the Statistics Seminar at the Department of Mathematical Sciences, Chalmers & University of Gothenburg
 
 ### Education
-- **M.Sc.** Engineering Mathematics and Computational Science, *Chalmers University of Technology*, **2018–2020**.
+- **Ph.D.** Mathematics, *Chalmers University of Technology & University of Gothenburg*, **2023–2026**. Thesis: "Learning to Estimate: Bayesian Filtering with Deep Density Methods".
+- **M.Sc.** Engineering Mathematics and Computational Science, *Chalmers University of Technology*, **2018–2020**. Thesis: "Approximation of non-stationary fractional Gaussian random fields".
 - **Exchange** semester in Mathematics, *ETH Zürich (Eidgenössische Technische Hochschule Zürich)*.
 - **B.Sc.** Mathematics, *University of Gothenburg*, **2015–2018**.
+
+### Funding and Awards
+
+- **Postdoctoral scholarship** (WASP through Knut and Alice Wallenberg Foundation), **2026**, 128,000 EUR. Project: "Uncertainty quantification for mathematical neuroscience with scientific machine learning".
+- **DYNSTOCH 2026 organizing grants** from Wenner-Gren Foundations, Royal Swedish Academy of Sciences, and Wilhelm och Martina Lundgrens Vetenskapsfond, **2025**, total 230,000 SEK
+- **Best poster award** at 29th Nordic Conference in Mathematical Statistics, **2023**
+- **Travel grants** from Stiftelsen Längmanska kulturfonden, Kungl. Vetenskaps- och Vitterhets-Samhället (KVVS), and Stiftelsen för Vetenskaplig Forskning och Utbildning i Matematik (SveFUM), **2026**
