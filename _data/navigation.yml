@@ -7,8 +7,6 @@ main:
     url: /presentations/
   - title: "Short CV"
     url: /short-cv/
-  - title: "Teaching"
-    url: /teaching/
   # Optional extras:
   # - title: "CV"
   #   url: /assets/KasperBagmark_CV.pdf

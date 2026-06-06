@@ -9,6 +9,23 @@ permalink: /presentations/
 
 ---
 
+### Thesis presentation homepage (Chalmers, Gothenburg, 22 May 2026)
+[Download PDF]({{ "/assets/files/thesis-presentation-homepage.pdf" | relative_url }})
+
+<object
+  data='{{ "/assets/files/thesis-presentation-homepage.pdf#page=1&view=FitH" | relative_url }}'
+  type="application/pdf"
+  width="100%"
+  height="90px"
+>
+  <p>
+    Your browser can’t display embedded PDFs.
+    <a href='{{ "/assets/files/thesis-presentation-homepage.pdf" | relative_url }}'>Download the PDF instead.</a>
+  </p>
+</object>
+
+---
+
 ### High-dimensional Bayesian filtering through deep density approximation (Statistics seminar, Gothenburg, 2026)
 [Download PDF]({{ "/assets/files/highdim.pdf" | relative_url }})
 
