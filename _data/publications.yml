@@ -43,7 +43,7 @@
   year: 2026
   type: "thesis"
   doi: "https://doi.org/10.63959/chalmers.dt/5867"
-  pdf: "https://research.chalmers.se/publication/551750/file/551750_Fulltext.pdf"
+  pdf: "/assets/files/Learning_to_Estimate_PhD_thesis.pdf"
 
 - title: "deep-density-filtering"
   authors: "K. Bågmark, F. Rydin"
