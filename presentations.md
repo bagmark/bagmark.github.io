@@ -26,18 +26,18 @@ permalink: /presentations/
 
 ---
 
-### High-dimensional Bayesian filtering through deep density approximation (Statistics seminar, Gothenburg, 2026)
-[Download PDF]({{ "/assets/files/highdim.pdf" | relative_url }})
+### Fast Bayesian filtering for high-dimensional nonlinear SDEs with deep density models (NordStat, Helsinki, 2026)
+[Download PDF]({{ "/assets/files/nordstat-presentation.pdf" | relative_url }})
 
 <object
-  data='{{ "/assets/files/highdim.pdf#page=1&view=FitH" | relative_url }}'
+  data='{{ "/assets/files/nordstat-presentation.pdf#page=1&view=FitH" | relative_url }}'
   type="application/pdf"
   width="100%"
   height="90px"
 >
   <p>
     Your browser can’t display embedded PDFs.
-    <a href='{{ "/assets/files/highdim.pdf" | relative_url }}'>Download the PDF instead.</a>
+    <a href='{{ "/assets/files/nordstat-presentation.pdf" | relative_url }}'>Download the PDF instead.</a>
   </p>
 </object>
 
