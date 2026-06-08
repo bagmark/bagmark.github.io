@@ -14,10 +14,10 @@ Previously, I was a PhD student at the Division of Applied Mathematics and Stati
 - **Co-organizer** of the Statistics Seminar at the Department of Mathematical Sciences, Chalmers & University of Gothenburg
 
 ### Education
-- **Ph.D.** Mathematics, *Chalmers University of Technology & University of Gothenburg*, **2023–2026**. Thesis: "Learning to Estimate: Bayesian Filtering with Deep Density Methods".
-- **M.Sc.** Engineering Mathematics and Computational Science, *Chalmers University of Technology*, **2018–2020**. Thesis: "Approximation of non-stationary fractional Gaussian random fields".
+- **Ph.D.** Mathematics, *Chalmers University of Technology & University of Gothenburg*, **2026**. Thesis: "Learning to Estimate: Bayesian Filtering with Deep Density Methods".
+- **M.Sc.** Engineering Mathematics and Computational Science, *Chalmers University of Technology*, **2020**. Thesis: "Approximation of non-stationary fractional Gaussian random fields".
 - **Exchange** semester in Mathematics, *ETH Zürich (Eidgenössische Technische Hochschule Zürich)*.
-- **B.Sc.** Mathematics, *University of Gothenburg*, **2015–2018**.
+- **B.Sc.** Mathematics, *University of Gothenburg*, **2018**.
 
 ### Funding and Awards
 
