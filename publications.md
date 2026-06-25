@@ -39,8 +39,8 @@ permalink: /publications/
 {% assign theses = site.data.publications | where: "type", "thesis" | sort: "year" | reverse %}
 {% for p in theses %}
 - **{{ p.title }}** ({{ p.year }}). {{ p.authors }}. _{{ p.venue }}_.  
-  {% if p.doi %} · [DOI]({{ p.doi }}){% endif %}
-  {% if p.pdf %}[PDF]({{ p.pdf }}){% endif %}
+  {% if p.doi %}[DOI]({{ p.doi }}){% endif %}
+  {% if p.pdf %} · [PDF]({{ p.pdf }}){% endif %}
 {% endfor %}
 
 ## Software
