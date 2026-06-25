@@ -9,10 +9,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:bagmark@chalmers.se"
-    - label: "Chalmers profile"
-      icon: "fas fa-building-columns"
-      url: "https://www.chalmers.se/en/persons/bagmark/"                # paste your URL
+      url: "mailto:k.bagmark@vu.nl"
+    #- label: "Chalmers profile"
+    #  icon: "fas fa-building-columns"
+    #  url: "https://www.chalmers.se/en/persons/bagmark/"                # paste your URL
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/kasper-bågmark-0098b9b1/"  # paste your URL
