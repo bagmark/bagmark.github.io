@@ -3,12 +3,11 @@ layout: single
 title: "Kasper Bågmark"
 ---
 
-I am a postdoctoral researcher at Vrije Universiteit Amsterdam working on uncertainty quantification for mathematical neuroscience with scientific machine learning. I am collaborating with [Frank van der Meulen](https://fmeulen.github.io) and [Daniele Avitabile](https://www.danieleavitabile.com) on this project.
+I am a WASP-KAW Postdoctoral Fellow, funded through the Wallenberg AI, Autonomous Systems and Software Program and the Knut and Alice Wallenberg Foundation. I am based at Vrije Universiteit Amsterdam, where I work on uncertainty quantification for mathematical neuroscience with scientific machine learning, in collaboration with [Frank van der Meulen](https://fmeulen.github.io) and [Daniele Avitabile](https://www.danieleavitabile.com).
 
-My research interests span Bayesian statistics, stochastic analysis, and scientific machine learning. I am particularly interested in probabilistic approaches to inverse problems, inference for complex models, and numerical schemes for high-dimensional partial and stochastic differential equations.
+My research interests span Bayesian statistics, stochastic analysis, numerical analysis, and scientific machine learning. I am particularly interested in probabilistic approaches to inverse problems, inference for complex models, and numerical schemes for high-dimensional partial and stochastic differential equations.
 
-I am the main organizer of the [DYNSTOCH 2026](https://dynstoch2026.pages.dev) workshop on statistical methods for dynamical stochastic models, taking place in Gothenburg in June 2026. I am also a co-organizer of the Statistics Seminar at the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg. See the seminar webpage here: [https://researchseminars.org/seminar/gbgstats](https://researchseminars.org/seminar/gbgstats) <br>
-If you are interested in giving a talk or have questions about the workshop, feel free to get in touch.
+Beyond my research, I am active in the [DYNSTOCH](https://sites.google.com/view/dynstoch) network on statistical methods for dynamical stochastic models, and chaired the most recent edition of the workshop, [DYNSTOCH 2026](https://dynstoch2026.pages.dev), in Gothenburg in June 2026. I have also previously co-organized the [Statistics Seminar](https://researchseminars.org/seminar/gbgstats) at the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg.
 
 ## Proposals and collaboration
 
